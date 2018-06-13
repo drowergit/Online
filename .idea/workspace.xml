@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9311ce3f-41f9-43fc-8bb6-6f4365bc945a" name="Default" comment="个人的一个网上商城课程代码">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/._xadmin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._.tx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._locale" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._migrations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._plugins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._static" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._templates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._templatetags" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/.tx/._config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._de_DE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._en" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._es_MX" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._eu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._id_ID" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._ja" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._lt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._nl_NL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._pt_BR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._ru_RU" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/._zh_Hans" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/de_DE/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/de_DE/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/de_DE/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/en/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/en/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/en/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/es_MX/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/es_MX/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/es_MX/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/eu/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/eu/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/eu/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/id_ID/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/id_ID/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/id_ID/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ja/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ja/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ja/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/lt/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/lt/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/lt/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/nl_NL/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/nl_NL/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/nl_NL/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pl/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pl/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pl/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pt_BR/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pt_BR/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pt_BR/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ru_RU/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ru_RU/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ru_RU/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/zh_Hans/._LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/zh_Hans/LC_MESSAGES/._django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/zh_Hans/LC_MESSAGES/._djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/._xadmin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/._vendor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._themes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._autotype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._bootstrap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._bootstrap-clockpicker" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._bootstrap-datepicker" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._bootstrap-image-gallery" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._bootstrap-modal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._bootstrap-multiselect" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._bootstrap-timepicker" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._flot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._font-awesome" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._jquery" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._jquery-ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._load-image" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._select2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._selectize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/._snapjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/._locales" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-image-gallery/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-image-gallery/._img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-image-gallery/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-image-gallery/img/._loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-modal/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-modal/._img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-modal/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-modal/img/._ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-multiselect/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-multiselect/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-timepicker/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-timepicker/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/._fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/fonts/._glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/fonts/._glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/fonts/._glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/._fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/fonts/._FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/fonts/._fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/fonts/._fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/fonts/._fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/fonts/._fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/._xadmin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._auth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._blocks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._edit_inline" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._excel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._forms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._grids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._import_export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._includes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._widgets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/._password_reset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/._user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/de_DE/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/de_DE/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/en/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/en/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/es_MX/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/es_MX/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/eu/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/eu/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/id_ID/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/id_ID/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/ja/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/ja/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/lt/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/lt/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/nl_NL/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/nl_NL/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/pl/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/pl/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/pt_BR/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/pt_BR/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/ru_RU/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/ru_RU/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/zh_Hans/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/zh_Hans/LC_MESSAGES/djangojs.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-image-gallery/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-modal/img/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/app-icon72x72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/admin-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/admin-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/admin-ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/admin-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/admin-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/adminPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/blogPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/landing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/landingPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/loginPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/examples/sidebarPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/i/startup-640x1096.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/._assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/._fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/._i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/fonts/._FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/fonts/._fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/fonts/._fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/fonts/._fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/fonts/._fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/._app-icon72x72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/._examples" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/._favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/._startup-640x1096.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._admin-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._admin-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._admin-ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._admin-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._admin-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._adminPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._blogPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._landing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._landingPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._loginPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/i/examples/._sidebarPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/._images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._chongzhi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._ibar_sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._logobar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._logobig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._no-img_mid_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._wdsc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/images/._weixin_code_145.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._-0-saturn_solar.jpg_220x220.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._0-item_pic.jpg_220x220.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._01_mid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._01_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._02_mid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._02_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._03_mid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._03_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._1-item_pic.jpg_220x220.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._1_160x160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._2016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._3CoOkxrFOP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._556.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._557.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._559.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._566.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._566fda5cN4b8a1675.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._62988.jpg_80x80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._65.jpg_120x120xz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._72h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._88.jpg_120x120xz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._T13iv.XiFdXXa94Hfd-32-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._TB102.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._TB1SSK7JpXXXXXCXXXXXXXXXXXX-800-600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._TB1_pic.jpg_200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._TJ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._TJ2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._YXARdXxj5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._act1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._act2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._act3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._activity.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._activity1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._activity2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._activity3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ad1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ad2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ad3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ad4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ad5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ad6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ad7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ad8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._addbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._addicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._addicon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._addicon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._advTip.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._bamboo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._bamboo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._blog09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._bonus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._browse1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._cake.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._cake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._candy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._candy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._cardbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._checkbox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._chocolate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._chocolate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._chongzhi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._clockbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._combo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._comment.jpg_400x400.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._cookies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._cookies.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._coupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._coupon2015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._coupon20150805.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._couponli.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._cp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._cp2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._day-to.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._extra.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._fish.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._getAvatar.do.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._gift_intro_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._gift_stamp_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._gift_stamp_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._gift_stamp_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._gift_stamp_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._gift_stamp_31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._header-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._header-bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._huismall.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._hwbn40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._ibar_sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._icon-sale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconbig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconfont-bad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconfont-badon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconfont-evaluate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconfont-good.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconfont-middle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconsmall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconsmall0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconsmall1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconsmall2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._iconsmall3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._imgsearch1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._index_ico_png32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._item-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._kouhong.jpg_80x80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._kuaidi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._list1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._listsmall1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._logobig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._logobig1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._logobig2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._mansmall.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._meat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._meat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._moneysmall.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._mygift_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._navce.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._navsmall.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._no-img_mid_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._nut.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._nut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._package.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._package.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._pay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._peraddbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._peraddress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._peraddressbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._receive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._refund.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._return-process-cd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._row1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._row2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._row3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._row4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._sale-t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._sale-t_clock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._sale1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._sale2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._sale3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._scoll1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._scoll2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._send.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._songzi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._sys_item_selected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tj1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tj2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tw1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tw2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tw3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tw4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tw5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tw6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._tw7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._wallet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._wangyin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._wdsc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._weixin_code_145.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._weizhifu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._zhifubao.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/images/._图标.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/.tx/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/.___init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._adminx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._filters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._layout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._sites.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._vendors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/._widgets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/de_DE/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/de_DE/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/en/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/en/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/es_MX/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/es_MX/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/eu/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/eu/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/id_ID/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/id_ID/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ja/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ja/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/lt/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/lt/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/nl_NL/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/nl_NL/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pl/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pl/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pt_BR/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/pt_BR/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ru_RU/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/ru_RU/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/zh_Hans/LC_MESSAGES/._django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/locale/zh_Hans/LC_MESSAGES/._djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/.___init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._actions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._aggregation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._ajax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._batch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._bookmark.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._chart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._comments.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._details.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._editable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._excel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._export.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._filters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._images.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._importexport.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._inline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._language.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._layout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._mobile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._multiselect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._passwords.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._portal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._quickfilter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._quickform.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._refresh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._relate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._relfield.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._sitemenu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._sortablelist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._themes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._topnav.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._wizard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/plugins/._xversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/._component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.page.dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.plugin.aggregation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.plugin.formset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.plugin.importexport.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.plugin.quickfilter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.plugins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.widget.editable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/._xadmin.widget.select-transfer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/themes/._bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/themes/._bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/css/themes/._bootstrap-xadmin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.page.dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.page.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.page.list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.batch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.bookmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.filters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.formset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.importexport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.portal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.quick-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.quickfilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.revision.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.sortablelist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.plugin.themes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.widget.datetime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.widget.multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.widget.select-transfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/js/._xadmin.widget.select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/autotype/._index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-clockpicker/._bootstrap-clockpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-clockpicker/._bootstrap-clockpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-clockpicker/._bootstrap-clockpicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-clockpicker/._bootstrap-clockpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/css/._datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/._bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/._bootstrap-datepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-image-gallery/css/._bootstrap-image-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-image-gallery/css/._bootstrap-image-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-image-gallery/js/._bootstrap-image-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-image-gallery/js/._bootstrap-image-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-modal/css/._bootstrap-modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-modal/js/._bootstrap-modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-modal/js/._bootstrap-modalmanager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-multiselect/css/._bootstrap-multiselect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-multiselect/js/._bootstrap-multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-timepicker/css/._bootstrap-timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-timepicker/css/._bootstrap-timepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-timepicker/js/._bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap-timepicker/js/._bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/css/._bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/css/._bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/fonts/._glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/js/._bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/bootstrap/js/._bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.colorhelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.aggregate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.crosshair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.errorbars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.navigate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/flot/._jquery.flot.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/css/._font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/css/._font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/font-awesome/fonts/._fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.effect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.effect.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.mouse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.sortable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery-ui/._jquery.ui.widget.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery/._jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/jquery/._jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/load-image/._load-image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/load-image/._load-image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/select2/._select2_locale_zh-hans.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/selectize/._selectize.bootstrap2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/selectize/._selectize.bootstrap3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/selectize/._selectize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/selectize/._selectize.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/selectize/._selectize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/selectize/._selectize.legacy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/selectize/._selectize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/snapjs/._snap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/snapjs/._snap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/static/xadmin/vendor/snapjs/._snap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/._base_site.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/password_reset/._complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/password_reset/._confirm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/password_reset/._done.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/password_reset/._email.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/password_reset/._form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/user/._add_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/auth/user/._change_password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/blocks/._comm.top.theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/blocks/._model_list.nav_form.search_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/blocks/._model_list.results_top.date_hierarchy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/blocks/._model_list.top_toolbar.importexport.export.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/blocks/._model_list.top_toolbar.importexport.import.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/blocks/._model_list.top_toolbar.layouts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/excel/._model_list.top_toolbar.import.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/forms/._transfer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/grids/._thumbnails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._app_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._batch_change_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._invalid_setup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._logged_out.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._model_dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._model_delete_confirm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._model_delete_selected_confirm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._model_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._model_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._model_history.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._model_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._quick_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._quick_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._recover_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._recover_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._revision_diff.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/templates/xadmin/views/._revision_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/.___init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/._base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/._dashboard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/._delete.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/._detail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/._edit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/._form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/._list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__MACOSX/xadmin/views/._website.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/adminx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/filters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/layout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/de_DE/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/de_DE/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/en/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/en/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/es_MX/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/es_MX/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/eu/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/eu/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/id_ID/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/id_ID/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/ja/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/ja/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/lt/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/lt/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/nl_NL/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/nl_NL/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/pl/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/pl/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/pt_BR/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/pt_BR/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/ru_RU/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/ru_RU/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/zh_Hans/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/locale/zh_Hans/LC_MESSAGES/djangojs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/actions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/aggregation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/ajax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/batch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/bookmark.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/chart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/comments.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/details.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/editable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/excel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/export.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/filters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/images.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/importexport.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/inline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/language.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/layout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/mobile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/multiselect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/passwords.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/portal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/quickfilter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/quickform.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/refresh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/relate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/relfield.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/sitemenu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/sortablelist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/themes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/topnav.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/wizard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/plugins/xversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/sites.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/themes/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/themes/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/themes/bootstrap-xadmin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.page.dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.plugin.aggregation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.plugin.formset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.plugin.importexport.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.plugin.quickfilter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.plugins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.widget.editable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/css/xadmin.widget.select-transfer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.page.dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.page.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.page.list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.batch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.bookmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.filters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.formset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.importexport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.portal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.quick-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.quickfilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.revision.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.sortablelist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.plugin.themes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.widget.datetime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.widget.multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.widget.select-transfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/js/xadmin.widget.select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/autotype/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-modal/css/bootstrap-modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-modal/js/bootstrap-modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-modal/js/bootstrap-modalmanager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-multiselect/css/bootstrap-multiselect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-multiselect/js/bootstrap-multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-timepicker/css/bootstrap-timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-timepicker/css/bootstrap-timepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-timepicker/js/bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap-timepicker/js/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.colorhelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.aggregate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.crosshair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.errorbars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.navigate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/flot/jquery.flot.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.effect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/load-image/load-image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/load-image/load-image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/select2/select2_locale_zh-hans.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/selectize/selectize.bootstrap2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/selectize/selectize.bootstrap3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/selectize/selectize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/selectize/selectize.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/selectize/selectize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/selectize/selectize.legacy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/selectize/selectize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/snapjs/snap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/snapjs/snap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/static/xadmin/vendor/snapjs/snap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/vendors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/dashboard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/delete.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/detail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/edit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/views/website.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/xadmin/widgets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/css/amazeui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/css/amazeui.flat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/css/amazeui.flat.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/css/amazeui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/amazeui.ie8polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/amazeui.ie8polyfill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/amazeui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/amazeui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/amazeui.widgets.helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/amazeui.widgets.helper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/handlebars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/AmazeUI-2.4.2/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/css/._admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/css/._amazeui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/css/._amazeui.flat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/css/._amazeui.flat.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/css/._amazeui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/css/._app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/fonts/._fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._amazeui.ie8polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._amazeui.ie8polyfill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._amazeui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._amazeui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._amazeui.widgets.helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._amazeui.widgets.helper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._handlebars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/AmazeUI-2.4.2/assets/js/._jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/css/._demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/js/._jquery-1.7.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/js/._jquery-1.9.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/basic/js/._quick_links.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._addstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._appstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._bilstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._blogstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._blstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._bostyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._cartstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._cmstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._colstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._cpstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._dlstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._footstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._hmstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._infstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._jsstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._lostyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._newstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._optstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._orstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._personal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._refstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._seastyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._sortstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._stepstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._sustyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/css/._systyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/js/._address.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/js/._jquery-1.7.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/js/._jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/js/._jquery.imagezoom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/js/._jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__MACOSX/static/js/._list.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="446" />
+    <option name="y" value="413" />
+    <option name="width" value="1553" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyOnline" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9311ce3f-41f9-43fc-8bb6-6f4365bc945a" name="Default" comment="" />
+      <created>1528082809758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528082809758</updated>
+    </task>
+    <task id="LOCAL-00001" summary="个人的一个网上商城课程代码">
+      <created>1528083103782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528083103782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="-8" width="1553" height="916" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="个人的一个网上商城课程代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="个人的一个网上商城课程代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
